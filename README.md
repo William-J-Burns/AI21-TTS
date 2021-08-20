@@ -1,2 +1,2 @@
 # AI21-TTS
-AI21 + TSS
+AI21 + TTS
